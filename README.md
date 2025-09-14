@@ -1,6 +1,6 @@
-# 📊 Logistic Regression for Binary Classification – Codveda Internship Task 4
+# 📊 Logistic Regression for Binary Classification
 
-This project is part of the **Codveda Machine Learning Internship**. The goal was to build a logistic regression model to predict binary outcomes — a core technique in supervised learning.
+In this project the goal was to build a logistic regression model to predict binary outcomes — a core technique in supervised learning.
 
 ---
 
@@ -56,6 +56,4 @@ This project is part of the **Codveda Machine Learning Internship**. The goal wa
 
 ---
 
-## 🙌 Tags
 
-#CodvedaJourney #CodvedaExperience #FutureWithCodveda #MachineLearning #LogisticRegression #BinaryClassification #MLInternship
